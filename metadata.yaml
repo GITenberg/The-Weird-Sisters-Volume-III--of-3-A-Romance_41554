@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41234'
     url: http://www.gutenberg.org/2009/agents/41234
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41554#The-Weird-Sisters-Volume-III--of-3-A-Romance
 gutenberg_issued: '2012-12-04'
 gutenberg_type: Text
 identifiers:
