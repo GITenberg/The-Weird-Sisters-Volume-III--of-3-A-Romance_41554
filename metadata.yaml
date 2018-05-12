@@ -1,0 +1,31 @@
+_repo: The-Weird-Sisters-Volume-III--of-3-A-Romance_41554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dowling, Richard
+    aliases:
+    - Dowling, R. (Richard)
+    - Fall, Marcus
+    birthdate: 1846
+    deathdate: 1898
+    gutenberg_agent_id: '41234'
+    url: http://www.gutenberg.org/2009/agents/41234
+description: ''
+gutenberg_issued: '2012-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Bankers -- Fiction'
+- !lcsh 'Paranoia -- Fiction'
+- !lcsh 'Families -- Fiction'
+title: 'The Weird Sisters: A Romance. Volume 3 (of 3)'
+url: http://www.gutenberg.org/ebooks/41554
